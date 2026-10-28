@@ -4,11 +4,11 @@ This repository contains a progressive series of hands-on networking and securit
 
 ## Projects
 
-### [Project 1: Packet Journey Map](./Project-1-Packet-Journey/)
+### [Project 1: Packet Journey Map]
 Rebuilt core networking fundamentals (OSI/TCP-IP, CIDR, routing) and captured the complete lifecycle of an HTTP/S request using Wireshark.
 
-### [Project 2: Capture, Attack, and Harden](./Project-2-CAHSN/)
+### [Project 2: Capture, Attack, and Harden]
 Built a multi-subnet routed topology. Executed a Man-in-the-Middle (MITM) attack via ARP cache poisoning, and successfully hardened the router using `nftables` stateful firewalls.
 
-### [Project 3: Secure Mini-Enterprise](./Project-3-Mini-Enterprise/)
+### [Project 3: Secure Mini-Enterprise]
 Designed and implemented an enterprise topology featuring a DMZ, internal LAN, and Management VLAN. (Currently in progress).
